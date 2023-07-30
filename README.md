@@ -19,3 +19,7 @@ Demo Page: https://odddevelopment.github.io/GlampPortfolio/
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/OddDevelopment/GlampPortfolio)
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/OddDevelopment/GlampPortfolio) 
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/OddDevelopment/GlampPortfolio)
+
+### Todo list:
+- Add animations to buttons
+- Make site mobile optimized
