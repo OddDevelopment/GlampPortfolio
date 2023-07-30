@@ -1,7 +1,8 @@
 # GlampPortfolio
 Make a simple professional portfolio like this and show off your projects and work:
-![mockup-macbook-grey-1 0](https://github.com/OddDevelopment/GlampPortfolio/assets/135460135/b2661cd6-4a9d-4343-8dff-e4adbb039cef)
+![mockup-macbook-grey-1 0](https://github.com/OddDevelopment/GlampPortfolio/assets/135460135/4813f82c-80c0-433c-9098-e02390328466)
 
+Demo Page: https://odddevelopment.github.io/GlampPortfolio/
 ## How to install
 **Install on a webhost:**
 1. [Download](https://github.com/OddDevelopment/GlampPortfolio/archive/refs/heads/main.zip) the files
